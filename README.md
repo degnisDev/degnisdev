@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there! I'm Degnis 👋</h1>
 <p align="center">
-  <img src="avatar-degnisdev.png" width="120" style="border-radius:50%" alt="degnisDev Avatar"/>
+  <img src="degnis_tech.png" width="120" style="border-radius:50%" alt="degnisDev Avatar"/>
 </p>
 <p align="center">
   Software Engineering Student • Data Analyst 7+ Experience <br>
