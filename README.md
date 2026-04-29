@@ -5,7 +5,7 @@
   <img src="degnis_tech.png" width="120" style="border-radius:50%" alt="degnisDev Avatar"/>
 </p>
 <p align="center">
-  Software Engineering Student • Data Analyst 7+ Experience <br>
+  Data Analyst 7+ Experience • Software Engineering Student <br>
   <b>Passionate about technology, Data, Artificial intelligence.</b>
 </p>
 
