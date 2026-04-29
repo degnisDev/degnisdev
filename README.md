@@ -14,11 +14,11 @@
 ### 🚀 About Me
 
 - 👨‍💻 I’m a **Software Engineering student** (6th semester) and also an Industrial Engineer.
-- 🎨 I specialize in **web development**, **UI/UX design**, and modern technologies.
+- 🎨 Data Analyst | +7 Years of Experience | Python · SQL · Power BI | Software Engineer Student| Industrial Engineer
 - 🌐 Bilingual profile: Spanish 🇪🇸 | English B2 🇬🇧
 - 🏅 I hold certifications that validate my technical skills.
-- 🛠️ Working as a **freelancer**, I create functional, visually appealing, and results-oriented digital solutions.
-- 💪 Tech lover, design enthusiast… and a gym fan!
+- 🛠️ I Work part-time as a **freelancer** web designer and developer on my platform desgnisdev.com.
+- 💪 Tech lover, IA enthusiast… and a gym fan!
 
 ---
 
