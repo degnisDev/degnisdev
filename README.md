@@ -5,8 +5,8 @@
   <img src="avatar-degnisdev.png" width="120" style="border-radius:50%" alt="degnisDev Avatar"/>
 </p>
 <p align="center">
-  Software Engineering Student • Freelance Web Developer & Designer <br>
-  <b>Passionate about technology, design, and digital innovation.</b>
+  Software Engineering Student • Data Analyst 7+ Experience <br>
+  <b>Passionate about technology, Data, Artificial intelligence.</b>
 </p>
 
 ---
