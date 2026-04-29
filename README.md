@@ -1,6 +1,6 @@
 <!-- Banner or personalized image can go here -->
 
-<h1 align="center">Hi there! I'm Degnis 👋</h1>
+<h1 align="center">Hi there! I'm Degnis </h1>
 <p align="center">
   <img src="degnis_tech.png" width="120" style="border-radius:50%" alt="degnisDev Avatar"/>
 </p>
